@@ -1,1 +1,1 @@
-<img alt="Rick Astley singing Never Gonna Give You Up" src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
+<img alt="Ghostface and friends shouting Wazupp. Wazzz up. on the phone in Scary Movie." src="assets/ghostface-wazzup.webp" width="100%">
